@@ -1,5 +1,4 @@
 # Netflix-Clone
-Netflix clone only the web structure!
 
 <div align="center">
   
@@ -10,9 +9,9 @@ Netflix clone only the web structure!
   <br />
 
   <h2 align="center">Netflix-Clone</h2>
-
+  
+  Netflix clone only the web structure!
   "Netflix-Clone" is a repository showcasing the frontend structure of a web-based platform, focusing solely on replicating the layout and functionality of Netflix's login and signup pages.
-
 </div>
 
 <br />
